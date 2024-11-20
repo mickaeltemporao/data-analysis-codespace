@@ -2,6 +2,7 @@
 title: This is the Test Title
 author: Your Name
 bibliography: references.bib
+format: pdf
 ---
 
 # Lorem Ipsum
