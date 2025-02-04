@@ -22,3 +22,22 @@ Summarize the main findings of your study and discuss their implications. Addres
 
 ## Bibliography
 
+### MISC
+# Article Template
+# Introduction
+- Topic related subsection
+- Research Question and Hypothesis
+    **Is this my research question?**
+    > H1: My hypothesis description
+# Data, variables and method
+- The Data
+- Dependent variable
+- Key independent variables
+- Control variables
+    Table 1: variable names, scale and description
+- Method
+- Descriptive statistics
+# Analysis
+- Modélisation
+# Conclusion
+# References
