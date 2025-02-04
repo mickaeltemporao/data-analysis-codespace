@@ -6,14 +6,14 @@ bibliography: references.bib
 format: pdf
 ---
 
-> *"Replace this text with a relevant quote from the article"* [@dassonneville2018gender].
+> *"Replace this quote with a relevant quote from an article."* [@dassonneville2018gender, p.13]
 
 ## Instructions
 
 - Include relevant sources in the `references.bib` file.
 - All **sources are leveraged** and put in perspective in the document.
 - Use in-text citations by using citation keys from the `references.bib` file, such as `[@brady1995beyond]` for parenthetical citations or `@brady1995beyond illustrate that...` for narrative citations.
-- The reading note is **500 words(~1-2 pages in a notebook)** max!
+- The reading note is less than **500 words.**
 
 ### Writing Tip
 - **1 page** = ~5 paragraphs
