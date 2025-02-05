@@ -8,11 +8,21 @@ In this editor, you can easily work on Notebooks (Jupyer Notebooks, Google Colab
 
 ## Here are some tips
 
-- If you are in an `.ipynb` (Ipython Notebook) file you can execute/run your code using Shift+Enter
+- If you are in an Ipython Notebook (`.ipynb`) you can execute/run your code using 
+    - Shift+Enter
 
-- If you are in an `.md` (Markdown) file you can render/compile the file (meaning turning it into a pdf or something else) by pressing : 
-
-- on Windows CTRL+Shift+K
-- on MacOS CMD+Shift+K
+- If you are in a Markdown file (`.md`) you can render/compile the file (meaning turning it into a pdf or something else) by pressing : 
+    - on Windows CTRL+Shift+K
+    - on MacOS CMD+Shift+K
 
 ## Folder Structure
+
+    .
+    ├── imgs              # Contains figures that are generated from notebooks.
+    ├── notebooks         # Contains previous notebooks used in this class
+    ├── paper.md          # The scientific article template you will use.
+    ├── reading-note.md   # The reading note temaplte to write reading notes.
+    ├── README.md         # This file that you are reading.
+    ├── references.bib    # The bibliography with references in bibtex format.
+    └── requirements.txt  # Python requirements, you can ignore this.
+
