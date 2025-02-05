@@ -19,6 +19,8 @@ Do not forget to include relevant sources in the `references.bib` file.
 - All **sources are leveraged** and put in perspective in the document.
 - Use in-text citations by using citation keys from the `references.bib` file, such as `[@brady1995beyond]` for parenthetical citations or `@brady1995beyond illustrate that...` for narrative citations.
 
+Here is an illustration: Recent studies have explored the intersection of gender and political engagement, highlighting significant findings. For instance, @dassonneville2018gender argue that gender influences voting behavior, particularly in how candidates are perceived. Similarly, the role of social networks in political participation cannot be overstated as access to resources significantly impacts political involvement [@brady1995beyond].
+
 ## Writing Tip
 - **1 page** = ~5 paragraphs
 - **1 paragraph** =  ~5 sentences = 1 idea
